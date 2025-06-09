@@ -1,4 +1,4 @@
-# F학점 지뢰찾기 (F-Grade Minesweeper)
+#F학점 지뢰찾기 (F-Grade Minesweeper)
 
 ## 1. 프로젝트 개요
 
