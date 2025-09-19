@@ -14,8 +14,8 @@
 - **화면 녹화:** `pyautogui`, `imageio`
 
 ## 2. 상세 기능 설명
+<img width="622" height="806" alt="스크린샷 2025-09-19 210913" src="https://github.com/user-attachments/assets/3ecfd672-fcdd-46b3-ac05-7ccc2a8e7cba" />
 
-![스크린샷 2025-06-09 041408](https://github.com/user-attachments/assets/41595c47-82e6-460c-9b58-7fb649210429)
 
 
 
